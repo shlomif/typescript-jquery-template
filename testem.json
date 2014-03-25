@@ -1,0 +1,8 @@
+{
+  "framework" : "mocha+chai",
+  "src_files" : [
+    "build/jquery.min.js",
+    "build/app.min.js",
+    "tests/**/*.js"
+  ]
+}

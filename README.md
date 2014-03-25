@@ -34,7 +34,7 @@ or
 % bower install https://github.com/jquery/jquery.git
 ```
 
-### Tree
+### Directory Tree
 
 - `src/` ... `*.ts`, `*.html`
 - `build/` ... compiled file to (`*.js`, `*.html`)

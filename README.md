@@ -11,7 +11,7 @@ use [Node.js](http://nodejs.org/)
 install [grunt](http://gruntjs.com/) & [bower](http://bower.io/) & [testem](https://github.com/airportyh/testem)
 
 ```sh
-% sudo npm install -g grunt
+% sudo npm install -g grunt-cli
 % sudo npm install -g bower
 % sudo npm install -g testem
 ```

@@ -1,2 +1,3 @@
 var $p = $('<p>');
-console.log($p);
+
+$('body').append($p.html('Hello TypeScript with jQuery'));
